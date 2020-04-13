@@ -1,0 +1,1 @@
+print("This is a English dictionaruy created by shokkijaat")
